@@ -1,0 +1,45 @@
+{
+    "menu": [
+        {
+            "navheader": "Trabajos",
+            "slug": ""
+        },
+        {
+            "name": "Movimientos",
+            "url": "gestion/panel",
+            "icon": "pie-chart",
+            "slug": ""
+        },
+
+        {
+            "name": "Plantillas",
+            "url": "gestion/gratificaciones",
+            "icon": "gift",
+            "slug": ""
+        },
+
+        {
+            "name": "Cuadrantes",
+            "url": "gestion/adelantos",
+            "icon": "dollar-sign",
+            "slug": ""
+        },
+
+        {
+            "navheader": "Vestuario",
+            "slug": ""
+        },
+        {
+            "name": "Prendas",
+            "url": "gestion/adelantos",
+            "icon": "dollar-sign",
+            "slug": ""
+        },
+        {
+            "name": "Vales de uniformidad",
+            "url": "gestion/adelantos",
+            "icon": "dollar-sign",
+            "slug": ""
+        }
+    ]
+}

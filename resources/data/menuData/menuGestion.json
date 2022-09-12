@@ -1,0 +1,68 @@
+{
+    "menu": [
+        {
+            "navheader": "Gestión",
+            "slug": ""
+        },
+        {
+            "name": "Panel de Control",
+            "url": "gestion/panel",
+            "icon": "pie-chart",
+            "slug": ""
+        },
+
+        {
+            "name": "Gratificaciones",
+            "url": "gestion/gratificaciones",
+            "icon": "gift",
+            "slug": ""
+        },
+
+        {
+            "name": "Adelantos",
+            "url": "gestion/adelantos",
+            "icon": "dollar-sign",
+            "slug": ""
+        },
+
+        {
+            "navheader": "Tablas del sistema",
+            "slug": ""
+        },
+        {
+            "name": "Tablas maestras",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "/gestion/gestion",
+            "name": "Empresas",
+            "icon": "circle",
+            "slug": "dashboard-analytics"
+        },
+        {
+            "url": "/",
+            "name": "Delegaciones",
+            "icon": "circle",
+            "slug": "dashboard-ecommerce"
+        },
+        {
+            "url": "/",
+            "name": "Pagos",
+            "icon": "circle",
+            "slug": "dashboard-analytics"
+        },
+        {
+            "url": "/",
+            "name": "Pluses",
+            "icon": "circle",
+            "slug": "dashboard-analytics"
+        },
+        {
+            "url": "/",
+            "name": "Usuarios",
+            "icon": "circle",
+            "slug": "dashboard-analytics"
+        }
+    ]
+}

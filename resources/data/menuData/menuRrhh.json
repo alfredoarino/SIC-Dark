@@ -1,0 +1,56 @@
+{
+    "menu": [
+        {
+            "navheader": "Personal",
+            "slug": ""
+        },
+        {
+            "name": "Empleados",
+            "url": "rrhh/empleados",
+            "icon": "users",
+            "slug": ""
+        },
+
+        {
+            "name": "Vacaciones",
+            "url": "rrhh/vacaciones",
+            "icon": "briefcase",
+            "slug": ""
+        },
+
+        {
+            "name": "Ayudas",
+            "url": "rrhh/ayudas",
+            "icon": "thumbdup",
+            "slug": ""
+        },
+        {
+            "name": "Festivos",
+            "url": "rrhh/festivos",
+            "icon": "calendar",
+            "slug": ""
+        },
+        {
+            "navheader": "Procesos",
+            "slug": ""
+        },
+        {
+            "url": "rrhh/kilometraje",
+            "name": "Kilometraje",
+            "icon": "circle",
+            "slug": "dashboard-analytics"
+        },
+        {
+            "url": "rrhh/prevision",
+            "name": "Previsión",
+            "icon": "circle",
+            "slug": "dashboard-ecommerce"
+        },
+        {
+            "url": "rrhh/liquidacion",
+            "name": "Liquidación",
+            "icon": "circle",
+            "slug": "dashboard-analytics"
+        }
+    ]
+}
